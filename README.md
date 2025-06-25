@@ -88,19 +88,19 @@ Agentic Arena aims to be the "Kaggle meets Leaderboard" for AI coding workflows,
 
 ## 📈 Roadmap
 
-### Phase 1: MVP (Months 1-3)
+### Phase 1: MVP 
 - Core submission and evaluation system
 - Basic leaderboards and user profiles
 - Support for major AI coding tools
 - Community features (voting, comments)
 
-### Phase 2: Growth (Months 4-6)
+### Phase 2: Growth 
 - Advanced analytics and insights
 - Enterprise features and team accounts
 - API access and integrations
 - Mobile-responsive design
 
-### Phase 3: Scale (Months 7-12)
+### Phase 3: Scale 
 - Advanced AI-powered analysis
 - Workflow optimization recommendations
 - Research partnership program
